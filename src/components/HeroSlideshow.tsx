@@ -14,21 +14,21 @@ const slides: Slide[] = [
     id: 1,
     title: "Morning Yoga in the Park",
     description: "A beautiful gathering of our community members enjoying peaceful morning yoga sessions in the lush green gardens.",
-    image: "https://images.pexels.com/photos/3822621/pexels-photo-3822621.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    image: "https://images.pexels.com/photos/3822621/pexels-photo-3822621.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=2",
     date: "March 2024"
   },
   {
     id: 2,
     title: "Laughter Club Celebration",
     description: "Joyful moments from our weekly laughter therapy sessions that bring smiles and wellness to our community.",
-    image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=2",
     date: "February 2024"
   },
   {
     id: 3,
     title: "Community Health Workshop",
     description: "Educational health and wellness workshops designed specifically for our senior community members.",
-    image: "https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    image: "https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=2",
     date: "January 2024"
   }
 ];

@@ -23,7 +23,7 @@ const allEvents: Event[] = [
     time: "7:00 AM - 8:30 AM",
     location: "Community Rose Garden",
     capacity: 25,
-    image: "https://images.pexels.com/photos/3760275/pexels-photo-3760275.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.pexels.com/photos/3760275/pexels-photo-3760275.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2",
     category: "Wellness"
   },
   {
@@ -34,7 +34,7 @@ const allEvents: Event[] = [
     time: "10:00 AM - 12:00 PM",
     location: "Community Kitchen",
     capacity: 15,
-    image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2",
     category: "Health"
   },
   {
@@ -45,7 +45,7 @@ const allEvents: Event[] = [
     time: "5:00 PM - 7:00 PM",
     location: "Community Hall",
     capacity: 40,
-    image: "https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2",
     category: "Entertainment"
   },
   {
@@ -56,7 +56,7 @@ const allEvents: Event[] = [
     time: "8:00 AM - 9:30 AM",
     location: "Fitness Center",
     capacity: 20,
-    image: "https://images.pexels.com/photos/3822621/pexels-photo-3822621.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.pexels.com/photos/3822621/pexels-photo-3822621.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2",
     category: "Fitness"
   },
   {
@@ -67,7 +67,7 @@ const allEvents: Event[] = [
     time: "2:00 PM - 4:00 PM",
     location: "Art Studio",
     capacity: 18,
-    image: "https://images.pexels.com/photos/3822868/pexels-photo-3822868.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.pexels.com/photos/3822868/pexels-photo-3822868.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2",
     category: "Creative"
   },
   {
@@ -78,7 +78,7 @@ const allEvents: Event[] = [
     time: "9:00 AM - 11:00 AM",
     location: "Community Garden",
     capacity: 30,
-    image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2",
     category: "Community"
   }
 ];

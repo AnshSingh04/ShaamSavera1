@@ -15,7 +15,7 @@ const Header: React.FC = () => {
               <Sunrise className="h-8 w-8 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900 group-hover:text-orange-500 transition-colors duration-300">
+              <h1 className="text-2xl font-bold text-gray-900 group-hover:text-orange-500 transition-colors duration-300" style={{ fontFamily: 'Dancing Script, cursive' }}>
                 Shaam Savera
               </h1>
               <p className="text-sm text-gray-600 -mt-1">Evening & Morning</p>

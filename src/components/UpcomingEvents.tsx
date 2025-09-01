@@ -22,7 +22,7 @@ const upcomingEvents: Event[] = [
     time: "7:00 AM - 8:30 AM",
     location: "Community Rose Garden",
     capacity: 25,
-    image: "https://images.pexels.com/photos/3760275/pexels-photo-3760275.jpeg?auto=compress&cs=tinysrgb&w=600"
+    image: "https://images.pexels.com/photos/3760275/pexels-photo-3760275.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2"
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const upcomingEvents: Event[] = [
     time: "10:00 AM - 12:00 PM",
     location: "Community Kitchen",
     capacity: 15,
-    image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=600"
+    image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2"
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ const upcomingEvents: Event[] = [
     time: "5:00 PM - 7:00 PM",
     location: "Community Hall",
     capacity: 40,
-    image: "https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=600"
+    image: "https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2"
   }
 ];
 
